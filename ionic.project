@@ -1,6 +1,6 @@
 {
-  "name": "IonicBase",
-  "app_id": "3aaf105b",
+  "name": "elManantial",
+  "app_id": "ae69c514",
   "gulpStartupTasks": [
     "sass",
     "watch"
